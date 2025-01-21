@@ -9,7 +9,7 @@ function createProfile(obj,arr){
     }
 }
 
-const ob={name:"Abhi",age:20};
+const ob={name:"barath",age:20};
 const arr=[ 'Reading','Traveling'];
 
 const newObj=createProfile(ob,arr);

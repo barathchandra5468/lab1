@@ -3,9 +3,9 @@ function createProfile({name,email}){
 }
 
 const person={
-    name:"Abhishek",
+    name:"barath",
     age:20,
-    email:"abhishek@gmail.com",
+    email:"barath@gmail.com",
     address:"HYderabad"
 }
 const updatePerson=createProfile(person);
